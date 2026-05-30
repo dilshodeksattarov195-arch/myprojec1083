@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheender",
+        "uuid": 9239073,
+        "checksum": "dwqifi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
